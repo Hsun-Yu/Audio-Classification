@@ -1,4 +1,4 @@
 {
     "python.pythonPath": "/home/hsunyu/anaconda3/envs/keras-env/bin/python",
-    "python.dataScience.jupyterServerURI": "http://114.34.48.196:8888/?token=7f99397d4f008bdcb372a945ecabacc28b5eafdcbceb976c"
+    "python.dataScience.jupyterServerURI": "local"
 }
